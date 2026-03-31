@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Pages() {
+function RenderRdl() {
   return (
     <div>
-      Pages
+      RenderRdl
     </div>
   );
 }
 
-export default Pages;
+export default RenderRdl;
